@@ -48,7 +48,7 @@ public class ObjetoEnviaEmail {
 		this.texto = texto;
 	}
 
-	/********ENVIO SEM ANEXO********/
+	/*********ENVIO SEM ANEXO*********/
 	public void enviaEmail(boolean envioHtml) {
 
 		try {
